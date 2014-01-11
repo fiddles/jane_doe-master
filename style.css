@@ -1,0 +1,39 @@
+body{
+	back
+}
+#content{}
+#nav-container{}
+#top-nav{}
+
+#intro{}
+#about{}
+
+.btn{
+	padding: 20px;
+	color:#fff;
+	text-decoration: none;
+	text-shadow: 1px 1px 3px #888;
+	font-size: 23px;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+	padding: ;
+}
+.box{
+	color:white;
+}
+#work .box{
+	color: white;
+	background:blue;
+	width:340px;
+	height:340px;
+	margin:auto;
+}
+#portfolio .box{
+	
+}
+>box ul{
+	margin: 0;
+
+}
